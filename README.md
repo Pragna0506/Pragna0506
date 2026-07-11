@@ -1,4 +1,7 @@
-# 💫 About Me:
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Pragna S</h1><br><h3 align="center">🚀Aspiring Full Stack Developer |🔒 Cybersecurity Enthusiast | 🎓ISE Student</h3><br><br>- 🌱 I’m currently learning Data Structures & Algorithms, SQL, React ,Machine Learning<br><br>- 👯 I’m looking to collaborate on Machine Learning, Data Analytics, and Open Source Projects<br><br>- 💬 Ask me about <br>I'm an aspiring Software Engineer passionate about  Full Stack Web Development  and  Cybersecurity. I enjoy building web applications, learning modern technologies, and sharpening my coding and problem-solving skills. I'm always eager to explore new ideas, take on challenges, and grow as a developer.<br><br>- 📫 How to reach me  pragnas0506@gmail.com<br><br>- ⚡ Fun fact  I love debugging almost as much as writing new code—every bug is a puzzle waiting to be solved!<br><br><p align="left"><br></p>
 
 
